@@ -1,4 +1,8 @@
 
+https://youtube-video-and-website-url-content-summarization-okx2ge7o9k.streamlit.app/
+
+
+
 # 🦜 Youtube & Website URL Content Summarizer with LangChain
 
 This Streamlit web app leverages LangChain and LLMs (like Groq's Gemma) to **summarize content** from either a **YouTube video** or a **website URL**. Just paste the link, and get a concise and clear summary in seconds.
